@@ -9,6 +9,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    overflow: hidden;
 }
 header nav{
     height: 50px;
@@ -229,7 +230,3 @@ ul.share-group{
 .copy{
     padding-bottom: 20px;
 }
-
-
-
-
